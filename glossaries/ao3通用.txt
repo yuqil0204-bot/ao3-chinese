@@ -1,4 +1,4 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Hetsiyoru
 更新时间：2026-09-10
 
@@ -6,7 +6,7 @@
 
 // 常用标签 (Tags)与特定专有名词
 Alternate Universe = 平行宇宙
-"Hurt/Comfort" = 伤害 慰藉
+Hurt Comfort = 伤害 慰藉
 Slow Burn = 细水长流
 Plot What Plot = 纯肉无剧情
 Temporary Character Death = 暂时角色死亡
@@ -17,11 +17,14 @@ Lives: 活着
 Redemption: 救赎
 Angst with a Happy Ending =  先虐后甜
 Not Beta Read = 未经校对
-Crack: 抽象
 Public Sex = 野战
 "Alternate Universe - Canon Divergence" = If线
 Guro: 猎奇
 Found Family = 没有血缘的亲情
+Original Characters = 原创 角色
+Omega Verse = ABO
+Heavy Angst = 重度 致郁
+Canon-Typical Violence = 原著同款 暴力值
 
 
 通用词条
@@ -36,6 +39,11 @@ Smut：肉
 "Fix-it"：改写意难平
 Crossover：混同/跨界
 domestic: 居家
+”-centric“: 中心
+Protective: 护短
+Pre-Slash 暧昧期
+Mutual Pining = 双向暗恋
+”A+ Parenting“ = 满分教育
 
 禁翻词条
 // 
