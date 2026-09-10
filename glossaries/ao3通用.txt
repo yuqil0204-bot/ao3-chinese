@@ -1,0 +1,53 @@
+版本号：1.0.0
+维护者：Hetsiyoru
+更新时间：2026-09-10
+
+词条
+
+// 常用标签 (Tags)与特定专有名词
+Alternate Universe = 平行宇宙
+"Hurt/Comfort" = 伤害 慰藉
+Slow Burn = 细水长流
+Plot What Plot = 纯肉无剧情
+Temporary Character Death = 暂时角色死亡
+Canon: 原作
+Character: 角色
+”Alpha/Beta/Omega Dynamics“ = ABO
+Lives: 活着
+Redemption: 救赎
+Angst with a Happy Ending =  先虐后甜
+Not Beta Read = 未经校对
+Crack: 抽象
+Public Sex = 野战
+"Alternate Universe - Canon Divergence" = If线
+Guro: 猎奇
+Found Family = 没有血缘的亲情
+
+
+通用词条
+//
+Fanfiction：同人小说
+"One-Shot"：单章完结
+Work in Progress = 连载中
+”Author's Note“ = 作者的话
+Fluff：甜向
+Angst：虐心
+Smut：肉
+"Fix-it"：改写意难平
+Crossover：混同/跨界
+domestic: 居家
+
+禁翻词条
+// 
+AO3
+ABO
+AU
+PWP
+OOC
+WIP
+HE
+BE
+CP
+OC
+BAMF
+Dirty Talk
