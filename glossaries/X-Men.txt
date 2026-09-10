@@ -1,0 +1,46 @@
+版本号：1.0.0
+维护者：Hetsiyoru
+更新时间：2026-09-10
+
+词条
+
+Charles Xavier = 查尔斯 泽维尔
+Erik Lehnsherr = 埃里克 兰谢尔
+Scott Summers = 斯科特 萨默斯
+Jean Grey = 琴 葛蕾
+Ororo Munroe = 奥罗罗 蒙罗
+Hank McCoy = 汉克 麦考伊
+Remy LeBeau = 瑞米 勒博
+Professor X：X教授
+Magneto：万磁王
+Wolverine：金刚狼
+Cyclops：镭射眼
+Storm：暴风女
+Beast：野兽
+Gambit：牌皇
+Rogue：小淘气
+Nightcrawler：夜行者
+Mystique：魔形女
+Sabretooth：剑齿虎
+"-Men": 战警
+"X-Men: Days of Future Past"：X战警：逆转未来
+
+通用词条
+
+Mutant：变种人
+Homo Superior：高等人类
+X-Gene：X基因
+Cerebro：脑波强化机
+Danger Room：危境室
+Sentinel：哨兵机器人
+
+禁翻词条
+
+X-Force
+Weapon X
+Krakoa
+Genosha
+
+正则表达式
+
+\bSentinels?\b: 哨兵机器人
