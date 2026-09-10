@@ -1,4 +1,4 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：Hetsiyoru
 更新时间：2026-09-10
 
@@ -35,6 +35,8 @@ Creampie: 内射
 Canon Compliant = 原作 兼容
 Hurt No Comfort = 纯虐无糖
 Case Fic = 办案向
+Top: 攻
+Bottom: 受
 
 通用词条
 //
@@ -53,8 +55,6 @@ Mutual Pining = 双向暗恋
 Canon: 原作
 "-centric": 中心
 Whump: 虐
-top: 攻
-bottom: 受
 Blindfolds: 蒙眼
 Doggy: 后入
 Swearing: 脏话
