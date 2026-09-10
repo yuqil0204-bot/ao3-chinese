@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Hetsiyoru
 更新时间：2026-09-10
 
@@ -10,10 +10,9 @@ Hurt Comfort = 伤害 慰藉
 Slow Burn = 细水长流
 Plot What Plot = 纯肉无剧情
 Temporary Character Death = 暂时角色死亡
-Canon: 原作
 Character: 角色
-”Alpha/Beta/Omega Dynamics“ = ABO
-Lives: 活着
+"Alpha/Beta/Omega Dynamics" = ABO
+Lives: 活下来了
 Redemption: 救赎
 Angst with a Happy Ending =  先虐后甜
 Not Beta Read = 未经校对
@@ -24,26 +23,32 @@ Found Family = 没有血缘的亲情
 Original Characters = 原创 角色
 Omega Verse = ABO
 Heavy Angst = 重度 致郁
-Canon-Typical Violence = 原著同款 暴力值
-
+Canon-Typical Violence = 原著同款 暴力
+"A+ Parenting" = 满分教育
+Canonical Character Death = 按原著领便当
+Submission: 顺从
+Cock Warming = 暖枪
+Come Eating = 吃精
+no beta we die like men = "没校对，生死有命"
 
 通用词条
 //
 Fanfiction：同人小说
 "One-Shot"：单章完结
 Work in Progress = 连载中
-”Author's Note“ = 作者的话
+"Author's Note" = 作者的话
 Fluff：甜向
-Angst：虐心
 Smut：肉
 "Fix-it"：改写意难平
 Crossover：混同/跨界
 domestic: 居家
-”-centric“: 中心
 Protective: 护短
 Pre-Slash 暧昧期
 Mutual Pining = 双向暗恋
-”A+ Parenting“ = 满分教育
+Canon: 原作
+"-centric": 中心
+Whump: 虐
+
 
 禁翻词条
 // 
