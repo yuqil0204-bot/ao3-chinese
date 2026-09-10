@@ -1,9 +1,10 @@
-版本号：1.0.0
+版本号：1.0.1
 维护者：Hetsiyoru
 更新时间：2026-09-10
 
 词条
 
+//人名
 Charles Xavier = 查尔斯 泽维尔
 Erik Lehnsherr = 埃里克 兰谢尔
 Scott Summers = 斯科特 萨默斯
@@ -11,6 +12,14 @@ Jean Grey = 琴 葛蕾
 Ororo Munroe = 奥罗罗 蒙罗
 Hank McCoy = 汉克 麦考伊
 Remy LeBeau = 瑞米 勒博
+Warren Worthington III = 沃伦 沃辛顿 三世
+Bobby Drake = 波比 德雷克
+Emma Frost = 艾玛 弗罗斯特
+Kitty Pryde = 凯蒂·普莱德
+Kurt Wagner = 库尔特·瓦格纳
+Jubilation Lee = 李千欢
+
+//代号
 Professor X：X教授
 Magneto：万磁王
 Wolverine：金刚狼
@@ -22,17 +31,41 @@ Rogue：小淘气
 Nightcrawler：夜行者
 Mystique：魔形女
 Sabretooth：剑齿虎
-"-Men": 战警
+Angel = 天使
+Iceman = 冰人
+Colossus = 钢力士
+Psylocke = 灵蝶
+Havok = 冲击波
+Polaris = 北极星
+Magik = 秘客
+Cable = 电索
+Deadpool = 死侍
+Apocalypse = 天启
+Juggernaut = 红坦克
+Mister Sinister = 惊恶先生
+
+X-Factor = X因子
+Hellfire Club = 地狱火俱乐部
+Brotherhood of Mutants = 变种人兄弟会
+Blackbird：黑鸟战机
+
 "X-Men: Days of Future Past"：X战警：逆转未来
+"X-Men: First Class"："X战警：第一战"
+"X-Men: The Last Stand"："X战警：最后之战"
+"X-Men: Dark Phoenix"："X战警：黑凤凰"
 
 通用词条
 
+x-men: X战警
 Mutant：变种人
 Homo Superior：高等人类
 X-Gene：X基因
-Cerebro：脑波强化机
+Cerebro：脑波增幅器
 Danger Room：危境室
 Sentinel：哨兵机器人
+Telepath：心灵感应者
+Phoenix Force：凤凰之力
+Shi'ar Empire：希阿帝国
 
 禁翻词条
 
@@ -40,7 +73,5 @@ X-Force
 Weapon X
 Krakoa
 Genosha
+Jubilee
 
-正则表达式
-
-\bSentinels?\b: 哨兵机器人
