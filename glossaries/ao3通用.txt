@@ -1,4 +1,4 @@
-版本号：1.0.2
+版本号：1.0.3
 维护者：Hetsiyoru
 更新时间：2026-09-10
 
@@ -9,7 +9,7 @@ Alternate Universe = 平行宇宙
 Hurt Comfort = 伤害 慰藉
 Slow Burn = 细水长流
 Plot What Plot = 纯肉无剧情
-Temporary Character Death = 暂时角色死亡
+Temporary Character Death = 暂时 角色 死亡
 Character: 角色
 "Alpha/Beta/Omega Dynamics" = ABO
 Lives: 活下来了
@@ -29,7 +29,10 @@ Canonical Character Death = 按原著领便当
 Submission: 顺从
 Cock Warming = 暖枪
 Come Eating = 吃精
-no beta we die like men = "没校对，生死有命"
+Depression: 抑郁
+Dissociation: 解离
+Creampie: 内射
+Canon Compliant = 原作 兼容
 
 通用词条
 //
@@ -48,7 +51,11 @@ Mutual Pining = 双向暗恋
 Canon: 原作
 "-centric": 中心
 Whump: 虐
-
+top: 攻
+bottom: 受
+Blindfolds: 蒙眼
+Doggy: 后入
+Swearing: 脏话
 
 禁翻词条
 // 
