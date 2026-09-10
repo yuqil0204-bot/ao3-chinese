@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Hetsiyoru
 更新时间：2026-09-10
 
@@ -12,11 +12,11 @@ Jean Grey = 琴 葛蕾
 Ororo Munroe = 奥罗罗 蒙罗
 Hank McCoy = 汉克 麦考伊
 Remy LeBeau = 瑞米 勒博
-Warren Worthington III = 沃伦 沃辛顿 三世
+Warren Worthington III = 沃伦 沃辛顿三世
 Bobby Drake = 波比 德雷克
 Emma Frost = 艾玛 弗罗斯特
-Kitty Pryde = 凯蒂·普莱德
-Kurt Wagner = 库尔特·瓦格纳
+Kitty Pryde = 凯蒂 普莱德
+Kurt Wagner = 库尔特 瓦格纳
 Jubilation Lee = 李千欢
 
 //代号
