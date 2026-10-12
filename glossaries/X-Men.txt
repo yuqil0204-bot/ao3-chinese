@@ -1,6 +1,6 @@
-版本号：1.0.3
+版本号：1.0.4
 维护者：Hetsiyoru
-更新时间：2026-09-14
+更新时间：2026-10-12
 
 词条
 
@@ -8,7 +8,7 @@
 Charles Xavier = 查尔斯 泽维尔
 Erik Lehnsherr = 埃里克 兰谢尔
 Scott Summers = 斯科特 萨默斯
-Jean Grey = 琴 葛蕾
+Jean Grey = 琴 格雷
 Ororo Munroe = 奥罗罗 蒙罗
 Hank McCoy = 汉克 麦考伊
 Remy LeBeau = 雷米 勒博
@@ -20,7 +20,26 @@ Kurt Wagner = 库尔特 瓦格纳
 Jubilation Lee = 千欢 李
 James Logan Howlett = 詹姆斯 罗根 豪利特
 Jack Winters = 杰克 温特斯
+Nathan Summers = 内森 萨默斯
+Anne Marie = 安娜 玛丽
+Alex Summers = 亚历克斯 萨默斯
+Piotr Rasputin = 皮奥特 拉斯普廷
+Illyana Rasputina = 伊莉亚娜 拉斯普廷
+Raven Darkhölme = 瑞雯 达克霍姆
+Victor Creed = 维克托 克里德
+Cain Marko = 凯恩 马尔科
+Nathaniel Essex = 纳撒尼尔 埃塞克斯
+En Sabah Nur = 恩 萨巴 努尔
+Laura Kinney = 劳拉 金尼
+Lucas Bishop = 卢卡斯 毕肖普
+Lorna Dane = 洛娜 戴恩
+Betsy Braddock = 贝茨 布拉多克
+Madelyne Pryor = 玛德琳 普赖尔
+Moira MacTaggert = 莫伊拉 麦克塔格特
 
+Jubilee: 朱比莉
+Sinister: 凶兆
+Hope: 霍普
 
 //代号
 Professor X：X教授
@@ -43,12 +62,26 @@ Cable: 电索
 Deadpool: 死侍
 Apocalypse: 天启
 Juggernaut: 红坦克
-Mister Sinister: 惊恶先生
+Mister Sinister: 凶兆先生
 White Queen: 白皇后
+Rogue: 罗刹
+Goblin Queen: 妖精女王
+Shadowcat: 幻影猫
+Omega Red: 红色欧米伽
+Phoenix: 凤凰
+Sunspot: 太阳黑子
+Legion: 大群
+Destiny: 命运女
+Blob: 肉球
+Toad: 癞蛤蟆
+Pyro: 火人
+Avalanche: 雪崩
+
 
 //昵称
 Slim: 瘦子
 Jeannie: 琴妮
+Cyke: 小镭
 
 //
 X-Factor: X因子
@@ -57,6 +90,15 @@ Brotherhood of Mutants: 变种人兄弟会
 Blackbird：黑鸟战机
 "T.K.": 念力
 Genosha: 基诺沙
+Avengers: 复仇者
+Champions: 冠军小队
+X-Force: X特攻队
+Weapon X: X武器
+Krakoa: 克拉科
+Marauders: 掠夺者
+Morlocks: 莫洛克斯人
+New Mutants: 新变种人
+TVA: 时间管理局
 
 "X-Men: Days of Future Past"：X战警：逆转未来
 "X-Men: First Class"："X战警：第一战"
@@ -69,28 +111,34 @@ x-men: X战警
 Mutant：变种人
 Homo Superior：高等人类
 X-Gene：X基因
-Cerebro：脑波增幅器
+Cerebro：脑波仪
 Danger Room：危境室
 Sentinel：哨兵机器人
 Telepath：心灵感应者
 Phoenix Force：凤凰之力
 Shi'ar Empire：希阿帝国
+Utopia: 乌托邦
+visor: 护目镜
+
 
 //CP名等
 romy: 牌淘
 scogean: 狼队琴
 scogan: 狼队
 cherik: EC
+jott: 队琴
+scemma: 队白
 
 禁翻词条
 
-Rogue
-Jubilee
-X-Force
-Weapon X
-Krakoa
 Red
-bub
 Storm
 FF
 
+bub
+sugah
+mon cher
+chere
+hoss
+mon ami
+bamf
